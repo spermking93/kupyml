@@ -1,22 +1,5 @@
 # kupyml
-ku python / machine learning 2018.07.20 ~
+ku python / machine learning study & research
 ===
-Things to do -  Trello : https://trello.com/b/CgOsI0NQ/pythontensorflow-at-ku
---
-Members 
---
-WD : physics 
-
-SD : Computer engineering 
-
-JB : Computer Education 
-
-Danial : Computer Education 
-
-GE : Econimics 
-
-UP : Econimics 
-
---
-Every Friday 11:00~
+Things to do -  Trello 
 --

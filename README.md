@@ -31,3 +31,5 @@ Things to do -  Trello
 
 1. going home. DAEGU by 3pm KTX train
 >>>>>>> origin/test_EP
+
+2. Can I revise this memo?

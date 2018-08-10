@@ -9,15 +9,20 @@ Why 새로운 브렌치?
 a—>a’으로 시도해서 잘 작동하면 기존의 마스터 브렌치 project로 merge하게 됨. 동시에 똑같은 작업을 하고 있을 때 브렌치가 발생. 
 
 명령어
-Git clone url(복사한것)  
+
+git clone url(복사한것)  
 —> repository 다운로드 
-Git add filename 
+
+git add filename 
 —> 어떤 파일을 올릴지 명시해주기(업로드 하고 싶은 파일 골라서 선택해놓기) 
-Git commit -m “설명” 
+
+git commit -m “설명” 
 —> 파일에 대한 설명 
-Git push  
+
+git push  
 —> 실제로 파일을 업로드 하는 것 
-Git pull  
+
+git pull  
 —>중앙 저장소에서 업데이트 코드를 가져옴 
 
 개인 프로젝트에서도 브렌치를 할 수 있다. 어떤 코드가 더 성능이 좋은지 비교하기 위해서.  
